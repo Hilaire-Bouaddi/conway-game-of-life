@@ -1,4 +1,7 @@
-use macroquad::{color::{Color, GRAY}, window::Conf};
+use macroquad::{
+    color::{Color, GRAY},
+    window::Conf,
+};
 
 pub const WINDOW_SIZE_X: usize = 600;
 pub const WINDOW_SIZE_Y: usize = 600;
